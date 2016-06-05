@@ -1,0 +1,14 @@
+layout_spectrum: 0.3512486445251852
+typography_spectrum: 0.0883049436379224
+color:
+  brandStrength: 0.19274289370514452
+  lightness: 0.014083378249779344
+  saturation: 0.7099543618969619
+  rhythmicContrast: 0.3244502660818398
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: supercatchyname
